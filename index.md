@@ -37,6 +37,12 @@ Here are my final projects, showcasing the skills and knowledge I've gained thro
 7. [Web Fundamentals](Docs/Web Fundamentals - Final Project -1.pdf)
 8. [Mobile Penetration Testing](Docs/Mobile Penetration Testing - Final Project .pdf)
 
+## Certifications 
+
+I'm proud to have earned the following certifications, which are a testament to my skills and dedication to cybersecurity:
+- [TDX Arena Penetration Tester Certificate](Docs/TDX Arena Penetration Tester Certificate.pdf)
+- [HackerU Collaboration with Uniwersytet Warszawski Certification](Docs/HackerU_Uniwersytet_Warszawski_Certification.pdf
+
 Each project reflects a significant milestone in my journey, demonstrating the practical application of the concepts and techniques I've learned.
 
 Thank you for visiting my page, and I hope you find my work insightful and inspiring!
