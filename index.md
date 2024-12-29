@@ -27,7 +27,7 @@ Welcome to the chronicle of my journey through the HackerU Red Team extended cou
     - Acquired skills in investigating and analyzing cyber incidents.
     - Worked on case studies involving digital forensics.
 
-## Final Projects
+##  My projects Projects
 
 Here are my final projects, showcasing the skills and knowledge I've gained throughout the course:
 
