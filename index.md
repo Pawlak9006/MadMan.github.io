@@ -5,19 +5,19 @@ Welcome to the chronicle of my journey through the HackerU Red Team extended cou
 ## Course Highlights
 
 1. **Introduction to Cybersecurity**
-    -> Gained foundational knowledge about the principles and practices in cybersecurity.
+    -> Gained foundational knowledge about the principles and practices in cybersecurity like OSI model or CIA Triad
     -> Explored various types of cyber threats and defensive mechanisms.
 
 2. **Network Security**
     - Learned about network protocols, firewalls, and intrusion detection systems.
-    - Conducted hands-on labs on securing network infrastructure.
+    - Conducted hands-on labs on securing network infrastructure
 
 3. **Penetration Testing**
-    - Mastered the art of ethical hacking and vulnerability assessment.
+    - Was mastering the art of ethical hacking and vulnerability assessment.
     - Executed real-world penetration testing scenarios.
 
 4. **Advanced Exploitation Techniques**
-    - Delved into advanced methods of exploiting vulnerabilities.
+    - Used advanced methods of exploiting vulnerabilities (buffer overflow, CSRF etc.)
     - Practiced creating and deploying custom exploits.
 
 5. **Digital Forensics**
