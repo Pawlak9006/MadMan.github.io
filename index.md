@@ -29,7 +29,7 @@ Welcome to the chronicle of my journey through the HackerU Red Team extended cou
 
 ##  My projects Projects
 
-Here are my final projects, showcasing the skills and knowledge I've gained throughout the course:
+Here are my final projects, showcasing the skills and knowledge I've gained throughout the course, and please have in mind that was just begginig of my cyber-jurney, promise I'll improve :)
 
 1. [Linux Fundamentals](Docs/Linux Fundamentals - Final Project1 2.pdf)
 2. [Windows Server 2016](Docs/Windows Server 2016 - Final Project.pdf)
