@@ -41,8 +41,20 @@ Here are my final projects, showcasing the skills and knowledge I've gained thro
 
 I'm proud to have earned the following certifications, which are a testament to my skills and dedication to cybersecurity:
 - [TDX Arena Penetration Tester Certificate](Docs/TDX Arena Penetration Tester Certificate.pdf)
-- [HackerU Collaboration with Uniwersytet Warszawski Certification](Docs/HackerU_Uniwersytet_Warszawski_Certification.pdf
+- [HackerU Collaboration with Uniwersytet Warszawski Certification](Docs/dupa.pdf)
 
 Each project reflects a significant milestone in my journey, demonstrating the practical application of the concepts and techniques I've learned.
 
 Thank you for visiting my page, and I hope you find my work insightful and inspiring!
+
+
+
+
+
+
+
+
+
+
+
+
