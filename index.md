@@ -5,8 +5,8 @@ Welcome to the chronicle of my journey through the HackerU Red Team extended cou
 ## Course Highlights
 
 1. **Introduction to Cybersecurity**
-    * Gained foundational knowledge about the principles and practices in cybersecurity.
-    * Explored various types of cyber threats and defensive mechanisms.
+    -> Gained foundational knowledge about the principles and practices in cybersecurity.
+    -> Explored various types of cyber threats and defensive mechanisms.
 
 2. **Network Security**
     - Learned about network protocols, firewalls, and intrusion detection systems.
