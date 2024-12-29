@@ -33,9 +33,9 @@ Here are my final projects, showcasing the skills and knowledge I've gained thro
 3. [Siem - SOC](Docs/SIEM-_-SOC-Final-WannaCry.pdf)
 4. [Cross Platform Privilege Escalation](Docs/Cross_Platform_Privilege_Escalation_-_Final_Project.pdf)
 5. [Advanced Infrastructure Attacks](Docs/Advanced Infrastructure Attacks - Final Project.pdf)
-6. [Python Programming for Security and Hacking](path/to/Python_Programming_for_Security_and_Hacking.pdf)
-7. [Web Fundamentals](path/to/Web_Fundamentals.pdf)
-8. [Mobile Penetration Testing](path/to/Mobile_Penetration_Testing.pdf)
+6. [Python Programming for Security and Hacking](Docs/Python_Programming_for_Security_-_Final_Project.pdf)
+7. [Web Fundamentals](Docs/Web Fundamentals - Final Project -1.pdf)
+8. [Mobile Penetration Testing](Docs/Mobile Penetration Testing - Final Project .pdf)
 
 Each project reflects a significant milestone in my journey, demonstrating the practical application of the concepts and techniques I've learned.
 
