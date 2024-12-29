@@ -1,126 +1,42 @@
----
-layout: default
----
+# My Journey with HackerU Red Team Extended Course
 
-## Below one of my very first "Black-Box" penetrations test:
+Welcome to the chronicle of my journey through the HackerU Red Team extended course. This course has been a transformative experience, filled with rigorous challenges and enriching learnings that have honed my skills in cybersecurity. Below, you'll find a brief summary of my journey and my final projects, sorted chronologically from the first to the ninth.
 
-[Link to my pentest](./WebAppPenTest.pdf).
+## Course Highlights
 
-## My juerny with Mobile App, was quite entertaining, had lods of fun and gained quite bit of knowlage
+1. **Introduction to Cybersecurity**
+    - Gained foundational knowledge about the principles and practices in cybersecurity.
+    - Explored various types of cyber threats and defensive mechanisms.
 
-[My MobileApp report](./Android_Final_Project_v10.pdf).
+2. **Network Security**
+    - Learned about network protocols, firewalls, and intrusion detection systems.
+    - Conducted hands-on labs on securing network infrastructure.
 
-## Web Fundamentals
-[Moje początki :) ](./Web Fundamentals - Final Project -1.pdf).
+3. **Penetration Testing**
+    - Mastered the art of ethical hacking and vulnerability assessment.
+    - Executed real-world penetration testing scenarios.
 
-# Header 1
+4. **Advanced Exploitation Techniques**
+    - Delved into advanced methods of exploiting vulnerabilities.
+    - Practiced creating and deploying custom exploits.
 
-Here would be nice if I say samething about myself
+5. **Digital Forensics**
+    - Acquired skills in investigating and analyzing cyber incidents.
+    - Worked on case studies involving digital forensics.
 
-## Header 2
+## Final Projects
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Here are my final projects, showcasing the skills and knowledge I've gained throughout the course:
 
-### Header 3
+1. [Linux Fundamentals](./Docs/Linux Fundamentals - Final Project1 2.pdf)
+2. [Windows Server 2016](/Docs/Windows Server 2016 - Final Project.pdf)
+3. [Siem - SOC](path/to/Siem_SOC.pdf)
+4. [Cross Platform Privilege Escalation](path/to/Cross_Platform_Privilege_Escalation.pdf)
+5. [Advanced Infrastructure Attacks](path/to/Advanced_Infrastructure_Attacks.pdf)
+6. [Python Programming for Security and Hacking](path/to/Python_Programming_for_Security_and_Hacking.pdf)
+7. [Web Fundamentals](path/to/Web_Fundamentals.pdf)
+8. [Mobile Penetration Testing](path/to/Mobile_Penetration_Testing.pdf)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Each project reflects a significant milestone in my journey, demonstrating the practical application of the concepts and techniques I've learned.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Thank you for visiting my page, and I hope you find my work insightful and inspiring!
