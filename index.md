@@ -2,17 +2,20 @@
 layout: default
 ---
 
-Below one of my very first "Black-Box" penetrations test:
+## Below one of my very first "Black-Box" penetrations test:
 
 [Link to my pentest](./WebAppPenTest.pdf).
 
-There should be whitespace between paragraphs.
+## My juerny with Mobile App, was quite entertaining, had lods of fun and gained quite bit of knowlage
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[My MobileApp report](./Android_Final_Project_v10.pdf).
+
+## Web Fundamentals
+[Moje początki :) ](./Web Fundamentals - Final Project -1.pdf).
 
 # Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Here would be nice if I say samething about myself
 
 ## Header 2
 
