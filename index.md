@@ -30,9 +30,9 @@ Here are my final projects, showcasing the skills and knowledge I've gained thro
 
 1. [Linux Fundamentals](./Docs/Linux Fundamentals - Final Project1 2.pdf)
 2. [Windows Server 2016](/Docs/Windows Server 2016 - Final Project.pdf)
-3. [Siem - SOC](path/to/Siem_SOC.pdf)
-4. [Cross Platform Privilege Escalation](path/to/Cross_Platform_Privilege_Escalation.pdf)
-5. [Advanced Infrastructure Attacks](path/to/Advanced_Infrastructure_Attacks.pdf)
+3. [Siem - SOC](/Docs/SIEM-_-SOC-Final-WannaCry.pdf)
+4. [Cross Platform Privilege Escalation](/Docs/Cross_Platform_Privilege_Escalation_-_Final_Project.pdf)
+5. [Advanced Infrastructure Attacks](/Docs/Advanced Infrastructure Attacks - Final Project.pdf)
 6. [Python Programming for Security and Hacking](path/to/Python_Programming_for_Security_and_Hacking.pdf)
 7. [Web Fundamentals](path/to/Web_Fundamentals.pdf)
 8. [Mobile Penetration Testing](path/to/Mobile_Penetration_Testing.pdf)
