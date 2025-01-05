@@ -2,7 +2,7 @@
 <b>Hi!</b> My name is Paweł. I'm a cybersecurity enthusiast. I got into Cyber about 2 years ago, but my journey with computers started when I was young and determined to take apart every single electronic device to see how it was built.<br><br>
         Last year, I finished the Red Team Extended course with <a href="https://hackeru.pl" alt="HackerU">HackerU</a>. After that, I needed a little break to spend time with my family, recharge my batteries, and NOW <b>I'M BACK</b>.</p>
     <p>For now, I'm planning to take the PJPT Certificate and after that, the PNPT from  <a href="https://tcm-sec.com">TCM Security</a>.</p>
-    <img src="Docs/TDX CERT.png" alt="My proud achievement">
+    <img src="Docs/TDX CERT.png" alt="My proud achievement" width="400" height="300">
 
 
 # My Journey with HackerU Red Team Extended Course
