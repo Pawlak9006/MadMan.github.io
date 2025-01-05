@@ -1,8 +1,10 @@
 <section> 
     <h2>About Me</h2>
-    <p>I'm an cybersecurity enthusiast, got into Cyber about 2 years ago, last year finished Red Team Extended course with <b>HackerU</b>
+    <p><b>Hi</b> My name i Paweł, I'm an cybersecurity enthusiast, got into Cyber about 2 years ago, but my journey with computers started when I was young a determinate to put every single electronics apart to see how it was build.<br>
+        Last year finished Red Team Extended course with <b>HackerU <img src="https://hackeru.pl"></b>
     After That I needeed little break to make it up to my family, recharge my batteries and NOW <b>I'M BACK</b></p>
     <br>
+    For now I'm planning to take PJPT Certificate and after that PNPT from TCM Security
     <img src="Docs/TDX CERT.png" alt="My proudly achievement">
 
 # My Journey with HackerU Red Team Extended Course
