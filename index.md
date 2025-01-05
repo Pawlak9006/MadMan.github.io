@@ -1,4 +1,7 @@
-<section> <h2>About Me</h2> <img src="Docs/TDX CERT.png" alt="My proudly achievement"> <p>A brief bio about yourself.</p>
+<section> 
+    <h2>About Me</h2>
+    <p>My proudly achievement</p>
+    <img src="Docs/TDX CERT.png" alt="My proudly achievement">
 
 # My Journey with HackerU Red Team Extended Course
 
