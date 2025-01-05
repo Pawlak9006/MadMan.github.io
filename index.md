@@ -5,6 +5,7 @@
     After That I needeed little break to make it up to my family, recharge my batteries and NOW <b>I'M BACK</b></p>
     <br>
     For now I'm planning to take PJPT Certificate and after that PNPT from <a href="https://tcm-sec.com" >TCM Security</a>
+    <br><br>
     <img src="Docs/TDX CERT.png" alt="My proudly achievement">
 
 # My Journey with HackerU Red Team Extended Course
