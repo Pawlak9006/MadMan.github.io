@@ -1,3 +1,5 @@
+<section> <h2>About Me</h2> <img src="Docs/TDX CERT.png" alt="My proudly achievement"> <p>A brief bio about yourself.</p>
+
 # My Journey with HackerU Red Team Extended Course
 
 Welcome to the chronicle of my journey through the HackerU Red Team extended course. This course has been a transformative experience, filled with rigorous challenges and enriching learnings that have honed my skills in cybersecurity. Below, you'll find a brief summary of my journey and my final projects, sorted chronologically from the first to the ninth.
