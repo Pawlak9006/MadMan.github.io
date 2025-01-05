@@ -1,6 +1,7 @@
 <section> 
     <h2>About Me</h2>
-    <p>My proudly achievement</p>
+    <p>Im an cybersecurity enthusiast, last year finished Red Team Extended course with <b>HackerU</b></p>
+    <br>
     <img src="Docs/TDX CERT.png" alt="My proudly achievement">
 
 # My Journey with HackerU Red Team Extended Course
