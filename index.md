@@ -1,6 +1,7 @@
 <section> 
     <h2>About Me</h2>
-    <p>Im an cybersecurity enthusiast, last year finished Red Team Extended course with <b>HackerU</b></p>
+    <p>I'm an cybersecurity enthusiast, got into Cyber about 2 years ago, last year finished Red Team Extended course with <b>HackerU</b>
+    After That I needeed little break to make it up to my family, recharge my batteries and NOW <b>I'M BACK</b></p>
     <br>
     <img src="Docs/TDX CERT.png" alt="My proudly achievement">
 
