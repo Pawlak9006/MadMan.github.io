@@ -38,14 +38,14 @@ Welcome to the chronicle of my journey through the HackerU Red Team extended cou
 
 Here are my final projects, showcasing the skills and knowledge I've gained throughout the course. Please keep in mind that this was just the beginning of my cyber journey—I'm continually improving!
 
-1. [Linux Fundamentals](docs/Linux Fundamentals - Final Project1 2.pdf)
-2. [Windows Server 2016](docs/Windows Server 2016 - Final Project.pdf)
-3. [Siem - SOC](docs/SIEM-_-SOC-Final-WannaCry.pdf)
-4. [Cross Platform Privilege Escalation](docs/Cross_Platform_Privilege_Escalation_-_Final_Project.pdf)
-5. [Advanced Infrastructure Attacks](docs/Advanced Infrastructure Attacks - Final Project.pdf)
-6. [Python Programming for Security and Hacking](docs/Python_Programming_for_Security_-_Final_Project.pdf)
-7. [Web Fundamentals](docs/Web Fundamentals - Final Project -1.pdf)
-8. [Mobile Penetration Testing](docs/Mobile Penetration Testing - Final Project .pdf)
+1. [Linux Fundamentals](Docs/Linux Fundamentals - Final Project1 2.pdf)
+2. [Windows Server 2016](Docs/Windows Server 2016 - Final Project.pdf)
+3. [Siem - SOC](Docs/SIEM-_-SOC-Final-WannaCry.pdf)
+4. [Cross Platform Privilege Escalation](Docs/Cross_Platform_Privilege_Escalation_-_Final_Project.pdf)
+5. [Advanced Infrastructure Attacks](Docs/Advanced Infrastructure Attacks - Final Project.pdf)
+6. [Python Programming for Security and Hacking](Docs/Python_Programming_for_Security_-_Final_Project.pdf)
+7. [Web Fundamentals](Docs/Web Fundamentals - Final Project -1.pdf)
+8. [Mobile Penetration Testing](Docs/Mobile Penetration Testing - Final Project .pdf)
 
 ## Certifications
 
